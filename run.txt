@@ -5,7 +5,7 @@ rsacraker -n --factors
 python3 rsa2.py
 rsacracker -c
 
-2.
+2.cryp-attk-rsa_hastad
 cd dist
 ./server
 cat messege.py
