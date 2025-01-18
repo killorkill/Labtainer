@@ -1,0 +1,19 @@
+1.cryp-attk-rsarsacracker
+python3 rsa.py
+rsacraker -n --factors
+
+python3 rsa2.py
+rsacracker -c
+
+2.cryp-attk-rsa_hastad
+cd dist
+./server
+cat messege.py
+cat output.txt
+cat get_flag.py
+./get_flag.py
+cat ChallengeCode.py
+cat vote.py
+./vote.py
+cat con.py
+./con.py
